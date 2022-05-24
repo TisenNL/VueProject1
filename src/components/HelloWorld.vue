@@ -149,3 +149,11 @@
     }),
   }
 </script>
+
+<style lang="scss">
+  $cor: red;
+
+  h1 {
+    color: $cor;
+  }
+</style>
